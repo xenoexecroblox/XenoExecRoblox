@@ -2,7 +2,7 @@
 
 **Xeno** (v1.1.4) is the keyless Roblox attach. xeno , xeno 1.1.4, counter blox script xeno, solara UNC. External C++. Windows 10/11 x64.
 
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/a6bfba3e-2895-4d35-9169-e5f2dd4dd481" />
+<img width="247" height="247" alt="image" src="https://github.com/user-attachments/assets/a6bfba3e-2895-4d35-9169-e5f2dd4dd481" />
 
   <img width="705" height="283" alt="image" src="https://github.com/user-attachments/assets/dd7e0396-8a99-4c35-a185-b0427b9a539f" />
 
